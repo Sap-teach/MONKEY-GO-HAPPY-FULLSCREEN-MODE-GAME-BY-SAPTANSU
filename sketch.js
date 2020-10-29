@@ -220,7 +220,7 @@ background(0);
      fill(0);
      stroke(0);
      textSize(20);
-     text("PRESS UP ARROW KEY TO JUMP..AND PRESS F11 & VIEW THE PAGE IN 100% ZOOM", 50,100);
+     text("PRESS UP ARROW KEY TO JUMP.. AND PRESS F11 & VIEW THE PAGE IN 100% ZOOM & CTRL+R TO RESTART", 50,100);
   }
 
 }
